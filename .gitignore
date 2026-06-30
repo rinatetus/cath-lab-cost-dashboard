@@ -1,0 +1,9 @@
+# Source data — confidential, never commit
+*.xlsx
+*.xls
+*.csv
+.~lock.*
+
+# OS / editor
+Thumbs.db
+.DS_Store
